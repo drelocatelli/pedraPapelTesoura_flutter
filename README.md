@@ -1,3 +1,3 @@
 # pedraPapelTesoura_flutter
 
-![image](https://user-images.githubusercontent.com/32282846/143908922-a190fe01-3d97-4dd6-a62b-9e76e414d575.png)
+![image](https://user-images.githubusercontent.com/32282846/143911301-d50c1b9d-686b-42b0-a93c-29b9547a4fe8.png)
